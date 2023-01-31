@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SravanDevireddy
-- 👀 I’m interested in Data Science,Machine Learning and AI
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Multiple data science and machine learning projects
+- 👀 I’m interested in Web Development and Cloud technologies
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Multiple Web development and cloud projects
 - 📫 Reach me at sravandevireddy@outlook.com
 
 <!---
